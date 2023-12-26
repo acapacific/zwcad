@@ -104,3 +104,16 @@ footer {
     padding-bottom: 1em;
     background-color: #F1F3F6;
 }
+
+.form {
+    transition: 1s;
+}
+
+.contact-choice {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
