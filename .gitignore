@@ -1,0 +1,13 @@
+
+ssl/ca_bundle.crt
+ssl/certificate.crt
+ssl/private.key
+ssl/zwcad-software.com.zip
+ssl/zwcad-software.pfx
+wwwroot/.well-known/pki-validation/CD9442608F039D28ED24035DA2552FD4.txt
+appsettings.json
+appsettings.json
+appsettings.json
+appsettings.json
+*.json
+appsettings.json
